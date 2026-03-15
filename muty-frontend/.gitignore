@@ -1,0 +1,17 @@
+# --- Frontend (React/Vite) ---
+muty-frontend/node_modules/
+muty-frontend/dist/
+muty-frontend/.env
+
+# --- Backend (Python) ---
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+.python-version
+
+# --- Sistema e IDE ---
+.DS_Store
+.vscode/
+.idea/
